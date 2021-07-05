@@ -1,16 +1,16 @@
 {
-  "name": "audiobutler",
-  "description": "App for funky playlist automation",
+  "name": "helloworld",
+  "description": "Simple hello world sample in Node",
   "version": "1.0.0",
   "private": true,
-  "main": "server.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": ">= 12.0.0"
   },
-  "author": "mattsguitar74@gmail.com",
+  "author": "Google LLC",
   "license": "Apache-2.0",
   "dependencies": {
     "express": "^4.17.1"
